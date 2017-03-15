@@ -1,0 +1,5 @@
+This is a group for those interested in learning about and adopting DDD. Our goal is to encourage building a DDD culture in the Phoenix region, within its organizations and their teams, and helping you follow through with successful implementations. Our name says Phoenix, but we have members attending from surrounding areas.
+
+Our group includes those who have practiced the tenets of DDD for decades and who have adopted the more formal patterns and practices established by Eric Evans in his book, Domain-Driven Design--Tackling Complexity in the Heart of Software. One of our practitioners regularly teaches the IDDD Workshop, present at conferences, mentors and consults, and has written books on the subject.
+
+Join us for discussions on topics such as realizing business value from DDD, how to build a DDD culture, overcoming barriers to good design, and successfully implementing DDD.
